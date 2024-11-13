@@ -1,6 +1,6 @@
 # Linux-IPC-Message-Queues
 Linux IPC-Message Queues
-Tarunika.D (212223040227) 
+Haarish V(212223230067)
 # AIM:
 To write a C program that receives a message from message queue and display them
 
